@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Dashboard](dashboard-overview.png)
 Marketing Campaign Performance Dashboard
 Overview
 
