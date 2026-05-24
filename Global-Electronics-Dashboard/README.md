@@ -19,7 +19,7 @@ Interactive dashboard analyzing revenue, orders, products, and categories for a 
 - Dynamic interactivity allows exploration by category and quarter
 
 ## Screenshot
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](GlobalElectronicsRetailPerformanceDashboard.png)
 
 ## File
 - Global_Electronics_Dashboard.pbix
